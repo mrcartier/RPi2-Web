@@ -23,4 +23,4 @@ edit /etc/lighttpd/lighttpd.conf to include mod_fastcgi
 
 sudo service lighttpd restart
 
-
+lighttpd error log at /var/log/lighttpd/error.log
